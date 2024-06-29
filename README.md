@@ -1,0 +1,2 @@
+# Dashboard
+Synto Dashboard
